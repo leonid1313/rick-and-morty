@@ -1,4 +1,4 @@
-[DEMO LINK]().
+Demo Link [Demo Link](https://leonid1313.github.io/rick-and-morty/).
 
 Task Description The goal of the task is to create a react web application that will display all the information about the Rick and Morty Tv series. It Should have 4 tabs in the navigation panel: Characters, Episodes, Locations, My watch list. 
   1. The Characters page should have a list of all characters that are in the tv series (Please implement pagination for that. So that there are 20-character cards per page). The list should have a filter by “species”, “status”, “gender” fields. The character card should have a character picture (if any), and some additional info about that character (your choice). When you click on the character card – the popup should be opened with all the character info. 
