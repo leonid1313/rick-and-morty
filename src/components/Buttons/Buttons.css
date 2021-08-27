@@ -1,0 +1,25 @@
+.button-container {
+  margin: 15px;
+  display: flex;
+  justify-content: space-between;
+  max-width: 1400px;
+  margin: 20px auto;
+}
+
+.button {
+  text-transform: uppercase;
+  padding: 15px;
+  font-size: 1.2rem;
+  border-radius: 5px;
+  border: 2px solid rgb(75, 48, 107);
+  background-color: #483d8b;
+  transition: color 0.3s, background-color 0.3s;
+  color: aliceblue;
+  cursor: pointer;
+  border-radius: 15px;
+}
+
+.button:hover {
+  color: black;
+  background-color: aqua;
+}

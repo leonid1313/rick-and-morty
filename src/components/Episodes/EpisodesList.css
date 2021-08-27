@@ -1,0 +1,7 @@
+
+.form-episodes {
+  display: flex;
+  justify-content: start;
+  margin:  20px 65px 20px;
+  font-size: 1.2rem;
+}
